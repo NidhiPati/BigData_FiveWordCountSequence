@@ -1,5 +1,7 @@
 
-Used Virtual Box and Cloudera
+# Project Description
+* Big Data Project - MapReduce Programming Model
+* Used Virtual Box and Cloudera
 
 ## Useful Links:
 * Virtual Box: https://www.virtualbox.org/wiki/Downloads (Download and Install)
