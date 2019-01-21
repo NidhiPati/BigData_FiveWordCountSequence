@@ -73,7 +73,7 @@ public static void main( String[] args) throws Exception {
 Configuration conf = new Configuration();
 Job job = Job.getInstance( conf, "word count");
 
-job.setJarByClass(Assignment1.class);
+job.setJarByClass(wordCount.class);
 
 FileInputFormat.addInputPath( job, new Path("input")); 
 FileOutputFormat.setOutputPath( job, new Path("output")); 
