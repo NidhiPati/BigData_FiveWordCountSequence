@@ -1,6 +1,6 @@
 
 # Project Description
-* Big Data Project - MapReduce Programming Model
+* Big Data Project - Hadoop MapReduce Programming Model
 * Used Virtual Box and Cloudera
 
 ## Useful Links:
